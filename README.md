@@ -1,4 +1,3 @@
-# facebook-metrics-sql-analysis
 
 
 # Facebook Metrics SQL Analysis
